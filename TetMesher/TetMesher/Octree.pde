@@ -1,8 +1,9 @@
 //*****************************************************************************
 // TITLE:         Octree
 // DESCRIPTION:   Functions of building an Octree, getting neighborhood of a certain position given an Octree
-// AUTHORS:       Yaohong Wu, Jin Lin
-// EDITS:         11/28/2017
+// AUTHORS:       Jin Lin
+// EDITS:         02/22/2018
+// REASON:        Octree is a kind of poweful and elegent data structure, which can be used to accelerate 3D spatial query, I use it in many projects.
 //*****************************************************************************
 
 
